@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/148395760?v=4" width="200" alt="Foto de Josue Uribe" />
+  <img src="[https://avatars.githubusercontent.com/u/148395760?v=4](https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg)" width="200" alt="Foto de Josue Uribe" />
   <h1>Hi there 👋</h1>
   <p>I'm <strong>Josue Uribe Ugalde</strong>, an enthusiastic <strong>software student</strong> with a passion for <strong>web development</strong>. I love learning new technologies and building clean, modern, and user-friendly web applications.</p>
 </div>
