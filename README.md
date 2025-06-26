@@ -66,6 +66,14 @@
 He/Him
 
 ---
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/JosueUribeUgalde">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JosueUribeUgalde&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JosueUribeUgalde&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ### ⚡ Fun fact:
 I once built a weather app in just one weekend — it even had a cute little cloud icon!
