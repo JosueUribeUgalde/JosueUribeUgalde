@@ -1,7 +1,5 @@
 
-<h1 align="center">## Hi there 👋</h1>
-
-I'm **Josue Uribe Ugalde**, an enthusiastic **software student** with a passion for **web development**. I love learning new technologies and building clean, modern, and user-friendly web applications.
+<h1 align="center">I'm **Josue Uribe Ugalde**, an enthusiastic **software student** with a passion for **web development**. I love learning new technologies and building clean, modern, and user-friendly web applications. 👋</h1>
 
 ---
 
