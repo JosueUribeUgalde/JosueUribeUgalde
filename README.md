@@ -1,11 +1,13 @@
-
-<h1 align="center">I'm **Josue Uribe Ugalde**, an enthusiastic **software student** with a passion for **web development**. I love learning new technologies and building clean, modern, and user-friendly web applications. 👋</h1>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/148395760?v=4" width="200" alt="Foto de Josue Uribe" />
+  <h1>Hi there 👋</h1>
+  <p>I'm <strong>Josue Uribe Ugalde</strong>, an enthusiastic <strong>software student</strong> with a passion for <strong>web development</strong>. I love learning new technologies and building clean, modern, and user-friendly web applications.</p>
+</div>
 
 ---
 
 ### 🔭 Currently working on:
 - A personal portfolio using **React + Tailwind CSS**
-
 
 ---
 
@@ -40,8 +42,8 @@
 ---
 
 ### 📫 How to reach me:
-- LinkedIn: [linkedin.com/in/josue-uribe-6a338b371](https://www.linkedin.com/in/josue-uribe-6a338b371 ) 
-- Email: josueuribe208@gmail.com
+- [LinkedIn]( https://www.linkedin.com/in/josue-uribe-6a338b371 )  
+- [Email](mailto:josueuribe208@gmail.com)
 
 ---
 
@@ -52,4 +54,3 @@ He/Him
 
 ### ⚡ Fun fact:
 I once built a weather app in just one weekend — it even had a cute little cloud icon!
-</div>
