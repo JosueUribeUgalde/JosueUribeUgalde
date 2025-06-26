@@ -6,7 +6,7 @@
 
 ---
 
-### 🔭 Currently working on:
+<div align="center">### 🔭 Currently working on:</div>
 - A personal portfolio using **React + Tailwind CSS**
 
 ---
