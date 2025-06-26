@@ -7,11 +7,13 @@
 ---
 
 <h2 align="center"> 🔭 Currently working on:</h2>
+
 - A personal portfolio using **React + Tailwind CSS**
 
 ---
 
  <h2 align="center">🌱 Learning: </h2>
+ 
 - **TypeScript**
 - **Next.js**
 - **UI/UX best practices**
