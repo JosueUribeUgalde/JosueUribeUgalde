@@ -1,16 +1,55 @@
 ## Hi there 👋
 
-<!--
-**JosueUribeUgalde/JosueUribeUgalde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Josue Uribe Ugalde**, an enthusiastic **software student** with a passion for **web development**. I love learning new technologies and building clean, modern, and user-friendly web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently working on:
+- A personal portfolio using **React + Tailwind CSS**
+
+
+---
+
+### 🌱 Learning:
+- **TypeScript**
+- **Next.js**
+- **UI/UX best practices**
+
+---
+
+### 💡 My tech stack:
+- ✅ HTML5 / CSS3  
+- ✅ JavaScript / TypeScript  
+- ✅ React.js / Next.js  
+- ✅ Node.js / Express  
+- ✅ Git / GitHub  
+
+---
+
+### 👯 Looking to collaborate on:
+- Open-source projects  
+- Full-stack web apps  
+- Tools or libraries that help developers  
+
+---
+
+### 💬 Ask me about:
+- Web development tips  
+- How to stay motivated while learning  
+- Good resources for beginners  
+
+---
+
+### 📫 How to reach me:
+- LinkedIn: [linkedin.com/in/josue-uribe-6a338b371](https://www.linkedin.com/in/josue-uribe-6a338b371 ) 
+- Email: josueuribe208@gmail.com
+
+---
+
+### 😄 Pronouns:
+He/Him
+
+---
+
+### ⚡ Fun fact:
+I once built a weather app in just one weekend — it even had a cute little cloud icon!
