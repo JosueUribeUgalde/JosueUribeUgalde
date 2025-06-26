@@ -42,8 +42,23 @@
 ---
 
 <h2 align="center">📫 How to reach me: </h2>
-- [LinkedIn]( https://www.linkedin.com/in/josue-uribe-6a338b371 )  
-- [Email](mailto:josueuribe208@gmail.com)
+<ul>
+        <!-- Enlace a LinkedIn -->
+        <li>
+            <a href="https://www.linkedin.com/in/josue-uribe-6a338b371 " 
+               target="_blank" 
+               rel="noopener noreferrer"
+               aria-label="LinkedIn de Josué Uríbe (se abre en una nueva ventana)">
+                LinkedIn
+            </a>
+        </li>
+        <li>
+            <a href="mailto:josueuribe208@gmail.com" 
+               aria-label="Enviar correo electrónico a josueuribe208@gmail.com">
+                Email
+            </a>
+        </li>
+    </ul>
 
 ---
 
