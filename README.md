@@ -49,13 +49,13 @@
                target="_blank" 
                rel="noopener noreferrer"
                aria-label="LinkedIn de Josué Uríbe (se abre en una nueva ventana)">
-                LinkedIn
+                My LinkedIn
             </a>
         </li>
         <li>
             <a href="mailto:josueuribe208@gmail.com" 
                aria-label="Enviar correo electrónico a josueuribe208@gmail.com">
-                Email
+                josueuribe208@gmail.com
             </a>
         </li>
     </ul>
