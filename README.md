@@ -31,9 +31,9 @@
 
 <h2 align="center"> 👯 Looking to collaborate on:</h2>
 
-- **Open-source projects  
-- **Full-stack web apps  
-- **Tools or libraries that help developers  
+- Open-source projects  
+- Full-stack web apps  
+- Tools or libraries that help developers  
 
 ---
 
