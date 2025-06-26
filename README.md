@@ -1,3 +1,4 @@
+<div text-aline:center;> 
 ## Hi there 👋
 
 I'm **Josue Uribe Ugalde**, an enthusiastic **software student** with a passion for **web development**. I love learning new technologies and building clean, modern, and user-friendly web applications.
@@ -53,3 +54,4 @@ He/Him
 
 ### ⚡ Fun fact:
 I once built a weather app in just one weekend — it even had a cute little cloud icon!
+</div>
