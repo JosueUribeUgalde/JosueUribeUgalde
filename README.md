@@ -6,19 +6,19 @@
 
 ---
 
-<div align="center">### 🔭 Currently working on:</div>
+<h2 align="center"> 🔭 Currently working on:</h2>
 - A personal portfolio using **React + Tailwind CSS**
 
 ---
 
-### 🌱 Learning:
+ <h2 align="center">🌱 Learning: </h2>
 - **TypeScript**
 - **Next.js**
 - **UI/UX best practices**
 
 ---
 
-### 💡 My tech stack:
+<h2 align="center"> 💡 My tech stack:</h2>
 - ✅ HTML5 / CSS3  
 - ✅ JavaScript / TypeScript  
 - ✅ React.js / Next.js  
@@ -27,7 +27,7 @@
 
 ---
 
-### 👯 Looking to collaborate on:
+<h2 align="center"> 👯 Looking to collaborate on:</h2>
 - Open-source projects  
 - Full-stack web apps  
 - Tools or libraries that help developers  
@@ -41,7 +41,7 @@
 
 ---
 
-### 📫 How to reach me:
+<h2 align="center">📫 How to reach me: </h2>
 - [LinkedIn]( https://www.linkedin.com/in/josue-uribe-6a338b371 )  
 - [Email](mailto:josueuribe208@gmail.com)
 
