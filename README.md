@@ -49,7 +49,7 @@
 <ul>
         <!-- Enlace a LinkedIn -->
         <li>
-            <a href="www.linkedin.com/in/josue-uribe-ugalde-6a338b371" 
+            <a href="https://www.linkedin.com/in/josue-uribe-ugalde-6a338b371/"
                target="_blank" 
                rel="noopener noreferrer"
                aria-label="LinkedIn de Josué Uríbe (se abre en una nueva ventana)">
