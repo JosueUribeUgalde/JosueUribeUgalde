@@ -26,6 +26,7 @@
 - ✅ React.js / Next.js  
 - ✅ Node.js / Express  
 - ✅ Git / GitHub  
+- ✅ React Native
 
 ---
 
